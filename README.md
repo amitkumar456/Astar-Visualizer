@@ -1,1 +1,1 @@
-# Notepad-using-Tkinter
+# Astar Visualizer
